@@ -14,7 +14,7 @@ function App() {
   const { t, i18n } = useTranslation();
 
   const fetchTasks = () => {
-    fetch("http://crudtasks.fwh.is/api.php")
+    fetch("https://crudtasks.fwh.is/api.php")
       .then((res) => res.json())
       .then((data) => setTasks(data));
   };
