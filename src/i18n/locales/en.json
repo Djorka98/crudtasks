@@ -1,5 +1,5 @@
 {
-    "title": "🚀 CRUD React + PHP + JSON",
+    "title": "🚀 CRUD React",
     "add": "Add",
     "newTask": "New task...",
     "all": "All",
@@ -9,6 +9,8 @@
     "dark": "🌙 Dark Mode",
     "delete": "Delete",
     "noTasks": "No tasks to display",
+    "update": "Update",
+    "cannotEditCompleted": "You can't edit a completed task",
     "taskAdded": "✅ Task added successfully!",
     "taskDeleted": "🗑️ Task deleted successfully",
     "taskMarkedComplete": "✔️ Task completed",

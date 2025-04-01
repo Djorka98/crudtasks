@@ -1,5 +1,5 @@
 {
-    "title": "🚀 CRUD React + PHP + JSON",
+    "title": "🚀 CRUD React",
     "add": "Agregar",
     "newTask": "Nueva tarea...",
     "all": "Todas",
@@ -9,6 +9,8 @@
     "dark": "🌙 Modo Oscuro",
     "delete": "Eliminar",
     "noTasks": "No hay tareas para mostrar",
+    "update": "Actualizar",
+    "cannotEditCompleted": "No puedes editar una tarea completada",
     "taskAdded": "✅ ¡Tarea agregada exitosamente!",
     "taskDeleted": "🗑️ Tarea eliminada correctamente",
     "taskMarkedComplete": "✔️ Tarea completada",
