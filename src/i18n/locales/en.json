@@ -1,0 +1,16 @@
+{
+    "title": "🚀 CRUD React + PHP + JSON",
+    "add": "Add",
+    "newTask": "New task...",
+    "all": "All",
+    "completed": "Completed",
+    "pending": "Pending",
+    "light": "☀️ Light Mode",
+    "dark": "🌙 Dark Mode",
+    "delete": "Delete",
+    "noTasks": "No tasks to display",
+    "taskAdded": "✅ Task added successfully!",
+    "taskDeleted": "🗑️ Task deleted successfully",
+    "taskMarkedComplete": "✔️ Task completed",
+    "taskMarkedIncomplete": "🔁 Task marked as pending"
+}  

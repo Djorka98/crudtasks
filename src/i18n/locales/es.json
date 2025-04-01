@@ -1,0 +1,16 @@
+{
+    "title": "🚀 CRUD React + PHP + JSON",
+    "add": "Agregar",
+    "newTask": "Nueva tarea...",
+    "all": "Todas",
+    "completed": "Completadas",
+    "pending": "Pendientes",
+    "light": "☀️ Modo Claro",
+    "dark": "🌙 Modo Oscuro",
+    "delete": "Eliminar",
+    "noTasks": "No hay tareas para mostrar",
+    "taskAdded": "✅ ¡Tarea agregada exitosamente!",
+    "taskDeleted": "🗑️ Tarea eliminada correctamente",
+    "taskMarkedComplete": "✔️ Tarea completada",
+    "taskMarkedIncomplete": "🔁 Tarea marcada como pendiente"
+}  
