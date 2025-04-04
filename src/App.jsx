@@ -66,7 +66,7 @@ function App() {
 
   const startEditing = (task) => {
     if (task.done) {
-      toast.error(t("cannotEditCompleted")); // O puedes omitir esto
+      toast.error(t("cannotEditCompleted"));
       return;
     }
     setEditingTask(task);
